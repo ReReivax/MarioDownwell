@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Goomba.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PiranhaPlant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Goomba.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ContactListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PiranhaPlant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="MarioBlockFlat.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="levelOne.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioFlat.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioFlatRun1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioFlatRun2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioFlatRun3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioFlatJump.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\clouds.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\coin_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\coin_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\coin_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\coin_4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\levelBrick.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioIdle.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioJump.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioRun1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioRun2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioRun3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\goomba1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\goomba2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\bulletBill.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioBoost.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\marioJumpBoost.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\parakoopa1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\parakoopa2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\piranhaplant01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\piranhaplant02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\star01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\star02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\star03.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\textures\star04.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\soundEffects\music.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="resources\audio\soundEffects\jump.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\audio\soundEffects\Coin.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\audio\soundEffects\Game Over.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\audio\soundEffects\Pause.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\audio\soundEffects\Squish.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="resources\audio\soundEffects\smb_stage_clear.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="resources\fonts\super-mario-bros-nes.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

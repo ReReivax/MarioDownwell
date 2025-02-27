@@ -1,0 +1,15 @@
+﻿box2d.lib(b2_body.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_world.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_circle_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_joint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_circle_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_polygon_contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_chain_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+box2d.lib(b2_edge_shape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Animation.obj
+C:\Users\xavie\source\repos\Assignment2-MarioBros-991247099\x64\Release\Assignment2-MarioBros-991247099.exe : fatal error LNK1319: 14 mismatches detected
